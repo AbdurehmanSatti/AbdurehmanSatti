@@ -56,7 +56,7 @@ const abdur: Developer = {
 [![Abdur's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
 [![Abdur's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurehmanSatti&theme=react-dark&hide_border=true&area=true&color=F5610A)](https://github.com/AbdurehmanSatti)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurehmanSatti&theme=react-dark&hide_border=true&area=true)](https://github.com/AbdurehmanSatti)
 
 ---
 
