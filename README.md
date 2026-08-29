@@ -107,4 +107,14 @@ const abdur: Developer = {
 
 ---
 
+### 🐍 `contribution_graph.snake()`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdurehmanSatti/AbdurehmanSatti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdurehmanSatti/AbdurehmanSatti/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/AbdurehmanSatti/AbdurehmanSatti/output/github-snake.svg" />
+</picture>
+
+---
+
 <p align="center">Thanks for visiting — check out my <a href="https://portfolio-abdur-rehman-rho.vercel.app/">portfolio</a> for more!</p>
