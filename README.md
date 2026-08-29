@@ -39,12 +39,59 @@ const abdur: Developer = {
 
 ### ⚡ `tech_stack.config.json`
 
-**🚀 Frontend** &nbsp; **⚙️ Backend** &nbsp; **🤖 AI & Data** &nbsp; **🛠️ Tools**
+<table>
+<tr><th>💻 Languages</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=py,js,c,cpp,cs,dart,matlab,bash" /><br/>
+<img src="https://img.shields.io/badge/Assembly%20(x86)-6E4C13?style=for-the-badge" />
+</td></tr>
+</table>
 
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6)
-![Backend](https://skillicons.dev/icons?i=py,fastapi,sqlite&perline=3)
-![AI & Data](https://skillicons.dev/icons?i=py,tensorflow,pytorch&perline=3)
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=4)
+<table>
+<tr><th>🎨 Frontend</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,jquery" />
+</td></tr>
+</table>
+
+<table>
+<tr><th>📱 Mobile</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</td></tr>
+</table>
+
+<table>
+<tr><th>⚙️ Backend</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,dotnet" />
+</td></tr>
+</table>
+
+<table>
+<tr><th>🗄️ Databases</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" /><br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</td></tr>
+</table>
+
+<table>
+<tr><th>🤖 AI &amp; Data</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</td></tr>
+</table>
+
+<table>
+<tr><th>🛠️ Tools</th></tr>
+<tr><td>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,vercel,linux,windows,figma" />
+</td></tr>
+</table>
 
 ---
 
