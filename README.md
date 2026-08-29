@@ -51,12 +51,12 @@ const abdur: Developer = {
 ### 📊 `system_metrics.log`
 
 [![Abdur's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
-[![Abdur's Streak Stats](https://streak-stats.demolab.com/?user=AbdurehmanSatti&theme=tokyonight&hide_border=true&stroke=F5610A&ring=F5610A&fire=F5610A&currStreakLabel=F5610A&sideLabels=ffffff&sideNums=ffffff&dates=ffffff)](https://github.com/AbdurehmanSatti)
+[![Abdur's Streak Stats](https://github-readme-streak-stats-eight.vercel.app/?user=AbdurehmanSatti&theme=tokyonight&hide_border=true)](https://github.com/AbdurehmanSatti)
 
 [![Abdur's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
 [![Abdur's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurehmanSatti&theme=react-dark&hide_border=true&area=true)](https://github.com/AbdurehmanSatti)
+[![Abdur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdurehmanSatti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/AbdurehmanSatti)
 
 ---
 
