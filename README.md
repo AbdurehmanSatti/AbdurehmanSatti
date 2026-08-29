@@ -102,8 +102,7 @@ const abdur: Developer = {
 
 [![Abdur's Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
 [![Abdur's Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdurehmanSatti&theme=tokyonight)](https://github.com/AbdurehmanSatti)
-
-[![Abdur's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdurehmanSatti&theme=tokyo-night&hide_border=true)](https://github.com/AbdurehmanSatti)
+[![Abdur's Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdurehmanSatti&theme=tokyonight&utcOffset=5)](https://github.com/AbdurehmanSatti)
 
 ---
 
