@@ -1,4 +1,4 @@
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=F5610A&height=250&section=header&text=Hi%20👋,%20I'm%20Abdur%20Rehman%20Satti&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI/ML%20Developer%20%7C%20Full-Stack%20Engineer%20from%20Pakistan&descAlignY=55)](https://github.com/AbdurehmanSatti)
+[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=F5610A&height=250&section=header&text=Hi%20👋,%20I'm%20Abdur%20Rehman%20Satti&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI/ML%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=55)](https://github.com/AbdurehmanSatti)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=F5610A&center=true&vCenter=true&width=600&lines=AI%2FML+Developer+%26+Data+Scientist;Full-Stack+Web+Developer;Building+with+Python%2C+Next.js+%26+ML)](https://git.io/typing-svg)
 
